@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,400,300,300italic);
+
+body {
+  background-color: black;
+  -webkit-font-smoothing: antialiased;
+}
+.container {
+  width: 730px;
+  height: 500px;
+  border : 100px;
+  background-color: #c1ffdb;
+  left: 330px;
+  top: 120px;
+  display: block;
+  position: absolute;
+}
+
+.photo-container{
+  position: absolute;
+  left : 0px;
+  top : 0px;
+  height: 500px;
+  width: 250px;
+  object-fit: cover;
+  background:rgba(0,0,0,0.6);
+  opacity: 10;
+}
+
+.content-container {
+  background-color: #d6d4bc;
+  padding-top: 40px;
+  position: absolute;
+  left : 250px;
+  top: 0px;
+  height: 460px;
+  width: 530px;
+}
+
+.text-container {
+  max-height: 300px;
+  text-align: center;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-size: 45px;
+  padding-left: 55px;
+  padding-right: 55px;
+  line-height: 50px;
+  margin-top: 65px;
+  margin-bottom: 40px;
+  line-height: 1em;
+  font-weight: bolder;
+  letter-spacing: -3px;
+  overflow-y: scroll;
+}
+
+.author-text {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 28px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+
+.liker {
+  font-size: 20px;
+  color: #ff667d;
+  margin-left: 350px;
+  cursor: pointer;
+}
+
+.arrow-previous {
+  color: pink;
+  cursor: pointer;
+  font-size: 30px;
+  margin-left: 70px;
+  top: 440px;
+  position: relative;
+}
+
+.arrow-next {
+  color: pink;
+  cursor: pointer;
+  font-size: 30px;
+  margin-left: 85px;
+  position: relative;
+  top: 440px;
+}

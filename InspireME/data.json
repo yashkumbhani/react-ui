@@ -1,0 +1,57 @@
+{
+  "quotes": [{
+      "author": "A P J Abdul Kalam",
+      "quoteText": "We should not give up and we should not allow the problem to defeat us.",
+      "poster": "Dr.-APJ-Abdul-Kalam.jpg",
+      "quoteID": "quoteID01",
+      "likes": 0,
+      "backgroundColor": "#292929",
+      "fontColor": "#E2E2E2"
+    },
+    {
+      "author": "Bill Gates",
+      "quoteText": "Don't Compare yourself with anyone in this world. If you do so, you are insulting yourself.",
+      "poster": "Bill-Gates.jpg",
+      "quoteID": "quoteID02",
+      "likes": 0,
+      "backgroundColor": "#D5D6BB",
+      "fontColor": "#000000"
+    },
+    {
+      "author": "Martin Luther King Jr.",
+      "quoteText": "If you can not fly then run, if you can't run then walk, if you cant' walk than crawl but whatever you do, keep moving forward.",
+      "poster": "martin-luther-king.jpeg",
+      "quoteID": "quoteID03",
+      "likes": 0,
+      "backgroundColor": "#292929",
+      "fontColor": "#E2E2E2"
+    },
+    {
+      "author": "Mahatma Gandhi",
+      "quoteText": "Be the change you wish to see in the world",
+      "poster": "Mahatma-Gandhi.jpg",
+      "quoteID": "quoteID04",
+      "likes": 0,
+      "backgroundColor": "#D5D6BB",
+      "fontColor": "#000000"
+    },
+    {
+      "author": "Warren Buffett",
+      "quoteText": "No matter how great the talent or efforts, some things just take time. You can’t produce a baby in one month by getting nine women pregnant.",
+      "poster": "warren-buffett.jpg",
+      "quoteID": "quoteID05",
+      "likes": 0,
+      "backgroundColor": "#D5D6BB",
+      "fontColor": "#000000"
+    },
+    {
+      "author": "Steve Jobs",
+      "quoteText": "Your time is limited, so don’t waste it living someone else’s life",
+      "quoteID": "quoteID06",
+      "poster":"steve_jobs.jpg",
+      "likes": 0,
+      "backgroundColor": "#D5D6BB",
+      "fontColor": "#000000"
+    }
+  ]
+}
